@@ -42,9 +42,9 @@ Dataset Link: https://drive.google.com/file/d/16z1F5gxsFjofRf5xnZK23MJFIM3q4zeK/
 
 Dashboard link: https://drive.google.com/file/d/1iSxR8Scs11PvWN4gKOhxIgGP3fGaea0P/view?usp=sharing
 
-Git hub Link: 
+Git hub Link: https://github.com/Nagaraj0408/Hospital-Readmission-Data.git
 
-Drive Link: 
+Drive Link: https://drive.google.com/drive/folders/10CUlfRE0lxMY_2jJvtdu_dBSpx3Xm2W7?usp=sharing
 
 
 1.	The Problem:
